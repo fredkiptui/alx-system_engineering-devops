@@ -1,1 +1,1 @@
-SHELL DIRECTIONS
+This is shell Redirection Project
